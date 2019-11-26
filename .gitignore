@@ -63,7 +63,7 @@ instance/
 # Scrapy stuff:
 .scrapy
 
-.json
+ServiceAccountKey.json
 
 # Sphinx documentation
 docs/_build/
